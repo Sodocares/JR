@@ -1,5 +1,5 @@
 body {
-    font-family: 'Cursive', sans-serif;
+    font-family: 'Arial', sans-serif;
     background-image:url(BackgroundImage.jpeg);
     color: #4a4a4a;
     margin: 0;
@@ -16,7 +16,7 @@ header {
 
 header h1 {
     margin: 0;
-    font-family: 'Cursive', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-size: 36px;
 }
 
@@ -47,7 +47,7 @@ section {
 }
 
 h2 {
-    font-family: 'Cursive', sans-serif;
+    font-family: 'Arial', sans-serif;
     color: #ff69b4;
     border-bottom: 2px solid #ffc0cb;
     padding-bottom: 10px;
