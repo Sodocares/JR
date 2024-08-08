@@ -77,7 +77,7 @@ h2 {
 }
 
 .gallery img {
-    max-width: 50%;
+    max-width: 70%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
